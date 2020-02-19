@@ -12,12 +12,12 @@ Quartz组件
 动态添加监控任务
 	
 
-一个具体的监控任务：	
-	每隔1小时监控某文件夹下的大小；
+一个具体的监控任务：  
+* 每隔1小时监控某文件夹下的大小；
 ---	
 QuartzScheduler类 理解 quartz 的 核心类  
 PropertiesParser类的使用  getStringArrayProperty方法
 
-# 本案例实现SpringBoot整合quartz实现定时任务(单机版)
+# SpringBoot整合quartz实现定时任务(单机版) [被注释掉]
 cron表达式配置在application.yml文件中
 
